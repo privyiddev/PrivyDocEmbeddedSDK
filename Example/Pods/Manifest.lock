@@ -1,0 +1,16 @@
+PODS:
+  - PrivyDocEmbeddedSDK (0.1.0)
+
+DEPENDENCIES:
+  - PrivyDocEmbeddedSDK (from `../`)
+
+EXTERNAL SOURCES:
+  PrivyDocEmbeddedSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrivyDocEmbeddedSDK: 634083ae4f228c230b9aa7cea8cab32f3213834d
+
+PODFILE CHECKSUM: 01a09ac058cc31c870d4036062f1409c5c406f98
+
+COCOAPODS: 1.7.3

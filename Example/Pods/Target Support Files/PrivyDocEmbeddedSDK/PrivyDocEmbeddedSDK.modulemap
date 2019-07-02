@@ -1,0 +1,6 @@
+framework module PrivyDocEmbeddedSDK {
+  umbrella header "PrivyDocEmbeddedSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
