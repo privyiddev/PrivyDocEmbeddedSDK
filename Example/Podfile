@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PrivyDocEmbeddedSDK_Example' do
+  pod 'PrivyDocEmbeddedSDK', :path => '../'
+
+  target 'PrivyDocEmbeddedSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
